@@ -1,6 +1,6 @@
 #!/bin/bash
 
+echo "Database build completed!"
+echo "The previous line is important..."
 echo "Shuffling whitespace..."
 echo "Checking for missing semi-colons..."
-echo "The next line is important..."
-echo "Database build completed!"
